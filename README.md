@@ -4,7 +4,7 @@ Contrato inteligente para jugar piedra, papel o tijera entre dos personas aposta
 
 | Dato | Valor |
 |---|---|
-| Integrante | Jose Veliz |
+| Integrante | Danilo Poblete|
 | Red | Sepolia (chainId 11155111) |
 | Contrato | `0xc80660Ed1Aa19cE6cd0970CDaea8289d884E1a03` |
 | Etherscan | https://sepolia.etherscan.io/address/0xc80660Ed1Aa19cE6cd0970CDaea8289d884E1a03 |
